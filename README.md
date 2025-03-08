@@ -5,6 +5,8 @@
 - scikit-learn 1.2.2
 - POT 0.9.3
 
+# Prepare Datasets
+Put SYSU-MM01 and RegDB dataset into data/sysu and data/regdb, run prepare\_sysu.py and prepare\_regdb.py to prepare the training data (convert to market1501 format).
 
 ## Dataset Preprocessing
 ```shell
